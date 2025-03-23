@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohanAbhishek29
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML , CSS, Java Script < Python
+- 👀 I’m interested in Cloud Computing
+- 🌱 I’m currently learning AWS, Cloudstack and Service Now
 - 💞️ I’m looking to collaborate on Others
 - 📫 How to reach me by email: mohanabhishek269@gmail.com
 
