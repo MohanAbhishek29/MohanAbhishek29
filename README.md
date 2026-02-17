@@ -41,7 +41,7 @@
       </details>
     </td>
     <td width="40%" align="center">
-      <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="90%" alt="Cloud Animation" style="border-radius: 10px;" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284110-53abdc72-c2cb-4279-9943-2615f79374f6.gif" width="90%" alt="Cloud Animation" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -75,8 +75,8 @@
 ### 📊 **GitHub Statistics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanAbhishek29&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="MohanAbhishek29's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanAbhishek29&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanAbhishek29&show_icons=true&theme=default&hide_border=true" alt="MohanAbhishek29's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanAbhishek29&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
 <br/>
@@ -90,7 +90,7 @@
 ### 🤝 **Let's Connect**
 
 <div align="center">
-  <a href="http://www.linkedin.com/in/mohan-abhishek-978825296">
+  <a href="https://www.linkedin.com/in/mohan-abhishek-978825296">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
