@@ -1,110 +1,110 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Mohan%20Abhishek&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Cloud%20Native%20%7C%20DevOps%20%7C%20IoT%20Enthusiast&descAlignY=60&descSize=25" width="100%" alt="Header" />
-  
-  <br/>
-  
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00c6ff,100:0072ff&height=300&section=header&text=Mohan%20Abhishek&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Cloud%20Architect%20%7C%20DevOps%20Engineer%20%7C%20IoT%20Innovator&descAlignY=55&descSize=25" width="100%" alt="Header" />
+</div>
+
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3366CC&center=true&vCenter=true&width=600&lines=Building+Robust+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+with+Terraform+%26+Docker+%F0%9F%90%B3;Exploring+IoT+%26+Serverless+Systems;Welcome+to+my+GitHub+Workspace!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Architecting+Scalable+Cloud+Solutions+%E2%98%81%EF%B8%8F;Orchestrating+Containers+with+Kubernetes+%E2%9☸%EF%B8%8F;Automating+Infrastructure+as+Code+%F0%9F%9B%A0%EF%B8%8F;Bridging+Physical+and+Digital+with+IoT+%F0%9F%93%A1" alt="Typing SVG" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohanAbhishek29&label=PROFILE+VIEWS&color=0072ff&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohanAbhishek29&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284110-53abdc72-c2cb-4279-9943-2615f79374f6.gif" width="100%" style="border-radius: 15px;" alt="Cloud Animation" />
+      </td>
+      <td width="50%" valign="top">
+        <h2>⚡ Bio & Mission</h2>
+        <p>
+          I'm <strong>Abhi</strong>, a Cloud Computing strategist at <strong>LPU</strong>. My mission is to build resilient, self-healing infrastructure that powers the next generation of applications.
+        </p>
+        <p>
+          Need a cloud solution? I specialize in:
+        </p>
+        <ul>
+          <li><strong>AWS & Azure Architecture</strong></li>
+          <li><strong>Container Orchestration (K8s)</strong></li>
+          <li><strong>Terraform & IaC Pipelines</strong></li>
+          <li><strong>IoT Device Management</strong></li>
+        </ul>
+        <br />
+        <a href="https://www.linkedin.com/in/mohan-abhishek-978825296">
+          <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+<br/>
 
-### ⚡ **About Me**
+<h2 align="center">🛠️ Technical Arsenal</h2>
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,ansible,linux,bash,git,github,vscode,python,cpp,java,html,css,js,react&perline=10" />
+</div>
+
+<br/>
+
+<h2 align="center">🚀 Featured Deployments</h2>
+
+<div align="center">
 <table border="0" width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <br/>
-      <p>
-        Hi, I'm <strong>Abhi</strong>! 👋 A Cloud Computing student at <strong>LPU</strong> with a passion for infrastructure automation and IoT systems. I build projects that bridge the gap between hardware (IoT) and the Cloud (AWS/Azure).
-      </p>
-      <br/>
-      <ul>
-        <li>🔭 <strong>Currently working on:</strong> Cloud Virtualization & AWS Labs</li>
-        <li>☁️ <strong>Cloud Skills:</strong> AWS, Azure, Apache CloudStack</li>
-        <li>🛠 <strong>DevOps Tools:</strong> Docker, Kubernetes, Terraform</li>
-        <li>🎯 <strong>Goal:</strong> Cloud Solutions Architect</li>
-        <li>📫 <strong>How to reach me:</strong> <a href="mailto:mohanabhishek269@gmail.com">mohanabhishek269@gmail.com</a></li>
-      </ul>
-      <br/>
-      <details>
-        <summary><strong>More about me...</strong></summary>
-        <br/>
-        I love exploring new technologies and applying them to solve real-world problems. When I'm not coding, you can find me learning about the latest trends in cloud computing or tinkering with IoT devices.
-      </details>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212284110-53abdc72-c2cb-4279-9943-2615f79374f6.gif" width="90%" alt="Cloud Animation" style="border-radius: 10px;" />
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="25%">Project</th>
+      <th width="55%">Mission & Tech</th>
+      <th width="20%">Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>AWS Master Platform</strong></td>
+      <td>Interactive learning system for AWS services.<br/><code>AWS</code> <code>EdTech</code> <code>Web</code></td>
+      <td align="center"><a href="https://github.com/MohanAbhishek29/AWS-Master-Learning-Platform"><img src="https://img.shields.io/badge/View_Code-00C6FF?style=social&logo=github" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Cloud Turnstile</strong></td>
+      <td>IoT-enabled access control with cloud logging.<br/><code>IoT</code> <code>Azure</code> <code>C++</code></td>
+      <td align="center"><a href="https://github.com/MohanAbhishek29/Cloud-Based-Turnstile-Access-Control-and-Attendance-System"><img src="https://img.shields.io/badge/View_Code-00C6FF?style=social&logo=github" /></a></td>
+    </tr>
+     <tr>
+      <td align="center"><strong>QuickServe</strong></td>
+      <td>Geo-proximity service booking engine.<br/><code>Algorithms</code> <code>GeoLocation</code></td>
+      <td align="center"><a href="https://github.com/MohanAbhishek29/QuickServe"><img src="https://img.shields.io/badge/View_Code-00C6FF?style=social&logo=github" /></a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Dosa House</strong></td>
+      <td>Restaurant management & ordering system.<br/><code>FullStack</code> <code>UI/UX</code></td>
+      <td align="center"><a href="https://github.com/MohanAbhishek29/Dosa-House"><img src="https://img.shields.io/badge/View_Code-00C6FF?style=social&logo=github" /></a></td>
+    </tr>
+  </tbody>
 </table>
-
----
-
-### 🛠 **Tech Stack & Tools**
-
-<div align="center">
-
-| Cloud & Infrastructure | DevOps & Tools | Languages & Frameworks |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=aws,azure,gcp" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,linux,bash" /> | <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css" /> |
-| **Cloud Providers** | **DevOps** | **Coding** |
-
-</div>
-
----
-
-### 🚀 **Projects Portfolio**
-
-| 📂 Project Name | 📝 Description & Features | 🔧 Tech/Cloud |
-| :--- | :--- | :--- |
-| **[AWS Master Platform](https://github.com/MohanAbhishek29/AWS-Master-Learning-Platform)** | An interactive learning platform designed to make AWS services easy to understand for beginners through visuals. | `AWS` `Cloud` `Web` |
-| **[Cloud Turnstile](https://github.com/MohanAbhishek29/Cloud-Based-Turnstile-Access-Control-and-Attendance-System)** | **IoT System:** A smart access control and attendance system integrated with Cloud database for real-time tracking. | `IoT` `Azure/AWS` `C++` |
-| **[QuickServe](https://github.com/MohanAbhishek29/QuickServe)** | **Web-A-Thon Finalist:** A service booking platform solving delays with a 15-min promise using Geo-Proximity algorithms. | `Geo-API` `Algorithm` |
-| **[Dosa House](https://github.com/MohanAbhishek29/Dosa-House)** | A dynamic and interactive restaurant web application where users can explore menus and manage orders seamlessly. | `Interactive UI` `Web` |
-
----
-
-### 📊 **GitHub Statistics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanAbhishek29&show_icons=true&theme=default&hide_border=true" alt="MohanAbhishek29's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanAbhishek29&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
 <br/>
 
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanAbhishek29&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohanAbhishek29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanAbhishek29&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" />
 </div>
-
----
-
-### 🤝 **Let's Connect**
-
+<br/>
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohan-abhishek-978825296">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:mohanabhishek269@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/MohanAbhishek29">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohanAbhishek29&theme=tokyonight&hide_border=true&background=00000000" />
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer" width="100%" />
 </div>
