@@ -1,10 +1,10 @@
 <!-- PAGE 1: INTRO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mohan%20Abhishek&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cloud%20Architect%20%7C%20IoT%20Innovator&descAlignY=55&descSize=30" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mohan%20Abhishek&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cloud%20Computing%20Student%20%7C%20IoT%20Enthusiast&descAlignY=55&descSize=30" width="100%" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00C6FF&center=true&vCenter=true&width=1000&lines=Building+Resilient+Cloud+Infrastructure;Orchestrating+Planetary+Scale+Systems;Bridging+Physical+%26+Digital+Worlds" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00C6FF&center=true&vCenter=true&width=1000&lines=Learning+and+Building+Cloud+Infrastructure;Experimenting+with+AWS+%26+Azure;Creating+IoT+Projects;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -16,14 +16,14 @@
 
 <div align="center">
   <br />
-  <h3>👋 Hi, I'm Abhi.</h3>
+  <h3>👋 Hi, I'm Abhi!</h3>
   <p width="80%">
-    I am a <strong>Cloud Computing Strategist</strong> and <strong>DevOps Engineer</strong> based at LPU. <br/>
-    I don't just write code; I design ecosystems. My passion lies in creating <strong>self-healing infrastructure</strong> and <strong>scalable IoT networks</strong> that solve real-world problems.
+    I am a Cloud Computing student at LPU who loves learning about infrastructure and working on practical projects. <br/>
+    I enjoy exploring how cloud services like AWS and Azure can be used to host applications and connect with IoT devices. I'm currently focused on building solid foundations in DevOps and automation.
   </p>
   <br />
   <p>
-    🔭 <strong>Focus Areas:</strong> Cloud Virtualization (AWS/Azure), Infrastructure as Code (Terraform), and Container Orchestration (Kubernetes).
+    🔭 <strong>Currently learning:</strong> AWS services, basic Terraform setups, and getting comfortable with Docker.
   </p>
 </div>
 
@@ -31,21 +31,21 @@
 
 <!-- PAGE 3: TECH ARSENAL (Wave Divider) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:96c93d&height=120&section=header&text=Tech%20Arsenal&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:96c93d&height=120&section=header&text=Skills%20&%20Tools&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=55" width="100%" />
 </div>
 
 <div align="center">
   <br />
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,ansible,linux,bash,git,python,cpp,java,js,react,html,css&perline=9" />
   <br />
-  <p>Also proficient in: <strong>Apache CloudStack</strong>, <strong>IoT Protocols</strong>, and <strong>Serverless Architecture</strong>.</p>
+  <p>I also have experience working with: <strong>Apache CloudStack</strong> and basic IoT hardware integrations.</p>
 </div>
 
 <br/>
 
 <!-- PAGE 4: PROJECTS (Wave Divider) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=120&section=header&text=Featured%20Projects&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9966,100:ff5e62&height=120&section=header&text=My%20Projects&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=55" width="100%" />
 </div>
 
 <div align="center">
@@ -54,29 +54,29 @@
   <thead>
     <tr>
       <th width="20%" align="center">Project</th>
-      <th width="60%" align="center">Description & Stack</th>
+      <th width="60%" align="center">Overview</th>
       <th width="20%" align="center">Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center"><strong>AWS Master Platform</strong></td>
-      <td>Interactive visual learning platform for AWS services.<br/><code>AWS</code> <code>EdTech</code> <code>Web</code></td>
+      <td>A beginner-friendly platform I built to help visually explain AWS concepts to others learning cloud.<br/><code>AWS</code> <code>HTML/CSS</code></td>
       <td align="center"><a href="https://github.com/MohanAbhishek29/AWS-Master-Learning-Platform"><img src="https://img.shields.io/badge/Repository-232F3E?style=flat&logo=amazon-aws&logoColor=white" /></a></td>
     </tr>
     <tr>
       <td align="center"><strong>Cloud Turnstile</strong></td>
-      <td>IoT-enabled access control system with cloud logging.<br/><code>IoT</code> <code>Azure</code> <code>C++</code></td>
+      <td>A practical IoT project using Azure to track attendance via a physical turnstile.<br/><code>IoT</code> <code>Azure</code> <code>C++</code></td>
       <td align="center"><a href="https://github.com/MohanAbhishek29/Cloud-Based-Turnstile-Access-Control-and-Attendance-System"><img src="https://img.shields.io/badge/Repository-0078D4?style=flat&logo=microsoft-azure&logoColor=white" /></a></td>
     </tr>
      <tr>
       <td align="center"><strong>QuickServe</strong></td>
-      <td>Geo-proximity booking engine for instant services.<br/><code>GeoAlgorithms</code> <code>FullStack</code></td>
+      <td>A hackathon project for finding local services quickly based on nearest location.<br/><code>Web App</code> <code>JavaScript</code></td>
       <td align="center"><a href="https://github.com/MohanAbhishek29/QuickServe"><img src="https://img.shields.io/badge/Repository-000000?style=flat&logo=github&logoColor=white" /></a></td>
     </tr>
     <tr>
       <td align="center"><strong>Dosa House</strong></td>
-      <td>Modern restaurant management & ordering interface.<br/><code>UI/UX</code> <code>Interactive</code></td>
+      <td>A simple restaurant website I designed to practice interactive web development.<br/><code>Web Design</code> <code>UI</code></td>
       <td align="center"><a href="https://github.com/MohanAbhishek29/Dosa-House"><img src="https://img.shields.io/badge/Repository-FF6C37?style=flat&logo=html5&logoColor=white" /></a></td>
     </tr>
   </tbody>
@@ -87,7 +87,7 @@
 
 <!-- PAGE 5: STATS & CONTACT (Wave Divider) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C33764,100:1D2671&height=120&section=header&text=Analytics%20&%20Connect&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C33764,100:1D2671&height=120&section=header&text=GitHub%20Stats%20&%20Contact&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=55" width="100%" />
 </div>
 
 <br />
