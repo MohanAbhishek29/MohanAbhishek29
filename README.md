@@ -143,9 +143,9 @@
 <div align="center">
   <h3>🐍 Contribution Graph</h3>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohanAbhishek29/MohanAbhishek29/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohanAbhishek29/MohanAbhishek29/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohanAbhishek29/MohanAbhishek29/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohanAbhishek29/MohanAbhishek29/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohanAbhishek29/MohanAbhishek29/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohanAbhishek29/MohanAbhishek29/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
