@@ -120,18 +120,8 @@
 <br />
 
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MohanAbhishek29&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=7" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=MohanAbhishek29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohanAbhishek29&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" />
+  <h3>📊 GitHub Metrics</h3>
+  <img src="https://metrics.lecoq.io/MohanAbhishek29?base=header,activity,community,repositories,metadata&config_theme=tokyonight&config_timezone=Asia%2FKolkata" />
 </div>
 <br/>
 <div align="center">
