@@ -1,6 +1,6 @@
 <!-- PAGE 1: INTRO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mohan%20Abhishek%20Gupta&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Cloud%20Computing%20Student%20%7C%20Backend%20Developer&descAlignY=55&descSize=25" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mohan%20Abhishek%20Gupta&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Cloud%20Computing%20Student%20%7C%20DevOps%20Aspirant&descAlignY=55&descSize=25" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -28,7 +28,7 @@
     I specialize in building scalable cloud infrastructures, serverless backends, and low-latency systems. <br/>
     My passion lies in solving complex problems using <b>Data Structures and Algorithms</b> and engineering robust applications.
   </p>
-  <br />
+  <br/>
   <p>
     🎓 <strong>Education:</strong> B.Tech CSE @ Lovely Professional University (2023 - Present)<br/>
     🏆 <strong>Highlight:</strong> Secured <b>Top 10</b> in Web-A-Thon 2.0 (24-hr Hackathon) for building the 'Quick Serve' platform!<br/>
@@ -40,7 +40,7 @@
 
 <!-- PAGE 3: TECH ARSENAL -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:96c93d&height=120&section=header&text=Skills%20&%20Technologies&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b09b,100:96c93d&height=120&section=header&text=Skills%20%26%20Technologies&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=55" width="100%" />
 </div>
 
 <div align="center">
@@ -114,7 +114,7 @@
 
 <!-- PAGE 5: ACHIEVEMENTS & STATS -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C33764,100:1D2671&height=120&section=header&text=Stats%20&%20Achievements&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C33764,100:1D2671&height=120&section=header&text=Stats%20%26%20Achievements&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=55" width="100%" />
 </div>
 
 <br />
