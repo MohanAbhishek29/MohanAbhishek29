@@ -1,6 +1,6 @@
 <!-- PAGE 1: INTRO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mohan%20Abhishek%20Gupta&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Cloud%20Architect%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=25" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mohan%20Abhishek%20Gupta&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Cloud%20Architect%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=22" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -88,19 +88,19 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center"><strong><a href="https://github.com/MohanAbhishek29">QuickMed | Multi-Cloud Pharmacy</a></strong></td>
-      <td>Architected a multi-cloud (AWS + Azure) pharmacy platform. Deployed infrastructure via <b>Terraform</b> and automated CI/CD using <b>GitHub Actions</b>.</td>
-      <td align="center"><code>Terraform</code> <code>Azure</code> <code>AWS</code></td>
+      <td align="center"><strong><a href="https://github.com/MohanAbhishek29/k8s-eks-terraform-deployment">Ephemeral EKS Microservices</a></strong></td>
+      <td>Production-grade, ephemeral microservices architecture on <b>AWS EKS</b> provisioned via <b>Terraform</b> with multi-AZ VPC, container security, and FinOps cost-optimization ($0.18 benchmark).</td>
+      <td align="center"><code>Kubernetes</code> <code>EKS</code> <code>Terraform</code> <code>Docker</code></td>
     </tr>
     <tr>
-      <td align="center"><strong><a href="https://github.com/MohanAbhishek29">Serverless Turnstile System</a></strong></td>
-      <td>Designed a 100% serverless, event-driven system with millisecond latency. Automated compliance via S3 and real-time SNS breach alerts.</td>
-      <td align="center"><code>AWS Lambda</code> <code>API Gateway</code> <code>RDS</code></td>
+      <td align="center"><strong><a href="https://github.com/MohanAbhishek29/DeepGuard_AI">DeepGuard AI</a></strong></td>
+      <td>Enterprise-grade multimodal synthetic media & deepfake forensic intelligence platform inspecting optical sensor signatures, ultrasonic vocoder harmonics, and cross-modal coherence.</td>
+      <td align="center"><code>Python</code> <code>FastAPI</code> <code>PyTorch</code> <code>Docker</code></td>
     </tr>
-     <tr>
-      <td align="center"><strong><a href="https://github.com/MohanAbhishek29/Dosa-House">Dosa House</a></strong></td>
-      <td>Delivered a real-time restaurant management PWA with role-based dashboards, utilizing serverless Firebase for auto-scaling synchronization.</td>
-      <td align="center"><code>Firebase</code> <code>PWA</code> <code>JS</code></td>
+    <tr>
+      <td align="center"><strong><a href="https://github.com/MohanAbhishek29/Serverless-Turnstile-Access-System">Serverless Turnstile System</a></strong></td>
+      <td>Designed a 100% serverless, event-driven system with millisecond latency. Automated compliance logging via S3 and real-time SNS breach alerts.</td>
+      <td align="center"><code>AWS Lambda</code> <code>API Gateway</code> <code>RDS</code> <code>Python</code></td>
     </tr>
   </tbody>
 </table>
